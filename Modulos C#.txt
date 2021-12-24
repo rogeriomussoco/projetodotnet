@@ -1,0 +1,37 @@
+Resumo
+
+O que é c#
+Como funciona
+Estrutura do programa
+Tipos de variáveis
+-referencia
+-valor
+
+INSTRUÇÕES PRINCIPAIS(condicionais, exceptions)
+If 
+switch
+while
+do
+for 
+for each
+break
+continue
+return
+try...catch...finally
+using
+
+ESTRUTURAS DE DADOS EM C#
+Arrays
+Classes e Objetos
+	-membros
+	-acessibilidade
+	-Métodos
+	
+Struts
+Interfaces
+Enums
+.............
+
+Uma aplicação simples
+cadastrar alunos armazenados num array e alistar e informar nome e Nota do aluno e terceira opção listar a media geral dos alunos 
+
