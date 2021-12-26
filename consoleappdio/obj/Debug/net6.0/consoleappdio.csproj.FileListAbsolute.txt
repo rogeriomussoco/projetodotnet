@@ -1,0 +1,15 @@
+C:\IGTI\csharp\consoleappdio\bin\Debug\net6.0\consoleappdio.exe
+C:\IGTI\csharp\consoleappdio\bin\Debug\net6.0\consoleappdio.deps.json
+C:\IGTI\csharp\consoleappdio\bin\Debug\net6.0\consoleappdio.runtimeconfig.json
+C:\IGTI\csharp\consoleappdio\bin\Debug\net6.0\consoleappdio.dll
+C:\IGTI\csharp\consoleappdio\bin\Debug\net6.0\ref\consoleappdio.dll
+C:\IGTI\csharp\consoleappdio\bin\Debug\net6.0\consoleappdio.pdb
+C:\IGTI\csharp\consoleappdio\obj\Debug\net6.0\consoleappdio.csproj.AssemblyReference.cache
+C:\IGTI\csharp\consoleappdio\obj\Debug\net6.0\consoleappdio.GeneratedMSBuildEditorConfig.editorconfig
+C:\IGTI\csharp\consoleappdio\obj\Debug\net6.0\consoleappdio.AssemblyInfoInputs.cache
+C:\IGTI\csharp\consoleappdio\obj\Debug\net6.0\consoleappdio.AssemblyInfo.cs
+C:\IGTI\csharp\consoleappdio\obj\Debug\net6.0\consoleappdio.csproj.CoreCompileInputs.cache
+C:\IGTI\csharp\consoleappdio\obj\Debug\net6.0\consoleappdio.dll
+C:\IGTI\csharp\consoleappdio\obj\Debug\net6.0\ref\consoleappdio.dll
+C:\IGTI\csharp\consoleappdio\obj\Debug\net6.0\consoleappdio.pdb
+C:\IGTI\csharp\consoleappdio\obj\Debug\net6.0\consoleappdio.genruntimeconfig.cache

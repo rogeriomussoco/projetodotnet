@@ -35,3 +35,36 @@ Enums
 Uma aplicação simples
 cadastrar alunos armazenados num array e alistar e informar nome e Nota do aluno e terceira opção listar a media geral dos alunos 
 
+
+..............
+- o que é uma aplicação console
+é uma aplicação que pode ser executada via algum terminal
+cmd/conemum/bash(linux)
+
+orientação a objetos em .NET
+Resolvendo desafio C#
+primeiros desafios em C#
+Cadastro de Séries  em .NET
+Mentoria03
+Fundamentos da Arquitetura de sistemas 
+SQL -server - primeiras consultas
+Desenvolvimento de Aplicações em .NET
+Desafios Basicos em C#
+Mentoria4: testes unitários na pratica com ;NET
+Configurações da Arquitetura Back-End-APIs
+Catalogo de Jogos usando Boas praticas de arquitetura em .NET
+Desafio Intermediário C#
+mentoria 05: websocket
+Criação websites em html e css3
+JAvascript ES6 essencial 
+primeiros passos em Javascript
+Mentoria 6: Typescript
+Introdução ao React Js
+trabalhando com componentes em React
+Desenvolviemnto de aplicações para internet Usando React
+Introdução ao React Hooks
+Criando Front-End totalmente componentizado na pratica com ReactJs
+Desenvolvendo MicroFrontEnd
+
+
+
