@@ -1,0 +1,5 @@
+C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.csproj.AssemblyReference.cache
+C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.GeneratedMSBuildEditorConfig.editorconfig
+C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.AssemblyInfoInputs.cache
+C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.AssemblyInfo.cs
+C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.csproj.CoreCompileInputs.cache
