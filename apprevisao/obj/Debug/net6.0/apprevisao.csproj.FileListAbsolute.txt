@@ -3,3 +3,13 @@ C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.GeneratedMSBuildEditorConf
 C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.AssemblyInfoInputs.cache
 C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.AssemblyInfo.cs
 C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.csproj.CoreCompileInputs.cache
+C:\IGTI\csharp\apprevisao\bin\Debug\net6.0\apprevisao.exe
+C:\IGTI\csharp\apprevisao\bin\Debug\net6.0\apprevisao.deps.json
+C:\IGTI\csharp\apprevisao\bin\Debug\net6.0\apprevisao.runtimeconfig.json
+C:\IGTI\csharp\apprevisao\bin\Debug\net6.0\apprevisao.dll
+C:\IGTI\csharp\apprevisao\bin\Debug\net6.0\ref\apprevisao.dll
+C:\IGTI\csharp\apprevisao\bin\Debug\net6.0\apprevisao.pdb
+C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.dll
+C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\ref\apprevisao.dll
+C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.pdb
+C:\IGTI\csharp\apprevisao\obj\Debug\net6.0\apprevisao.genruntimeconfig.cache
