@@ -1,0 +1,11 @@
+RESOLVENDO DESAFIOS DE CODIGO
+
+CURSO: conceitos essenciais e fundamentação teorica
+Desafios de Código: logica e pensamento computacional: resolução de problemas, 
+buscando uma capacidade de abstração
+DESAFIO DO PROJETO: Pratica e criação de portfolios.  resolvendo algum problema 
+e usando o GitHub para demostrar o quanto estamos evoluindo como desenvolvedores
+isso é ótimo para as empresas
+MENTORIAS: Nos trazem a cultura de tecnologias e o que esta acontecendo no mercado
+
+independente da linguagem de programação. pensamento computacional é essencial

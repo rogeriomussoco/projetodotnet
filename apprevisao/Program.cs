@@ -16,8 +16,8 @@ namespace Apprevisao
                 {
                     case "1" :
                         Console.WriteLine("informe nome do Aluno");
-                         var aluno = new Aluno();
-                         aluno.Nome = Console.ReadLine();
+                        var aluno = new Aluno();
+                        aluno.Nome = Console.ReadLine();
 
                         Console.WriteLine("Informe a Nota");
 

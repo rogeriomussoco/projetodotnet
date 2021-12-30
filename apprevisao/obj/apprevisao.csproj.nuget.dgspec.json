@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\IGTI\\csharp\\apprevisao\\apprevisao.csproj": {}
+    "C:\\IGTI\\csharp\\apprevisao\\Apprevisao.csproj": {}
   },
   "projects": {
-    "C:\\IGTI\\csharp\\apprevisao\\apprevisao.csproj": {
+    "C:\\IGTI\\csharp\\apprevisao\\Apprevisao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\IGTI\\csharp\\apprevisao\\apprevisao.csproj",
-        "projectName": "apprevisao",
-        "projectPath": "C:\\IGTI\\csharp\\apprevisao\\apprevisao.csproj",
+        "projectUniqueName": "C:\\IGTI\\csharp\\apprevisao\\Apprevisao.csproj",
+        "projectName": "Apprevisao",
+        "projectPath": "C:\\IGTI\\csharp\\apprevisao\\Apprevisao.csproj",
         "packagesPath": "C:\\Users\\guikr\\.nuget\\packages\\",
         "outputPath": "C:\\IGTI\\csharp\\apprevisao\\obj\\",
         "projectStyle": "PackageReference",

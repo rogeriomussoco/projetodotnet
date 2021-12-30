@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\IGTI\\csharp\\apprevisao\\apprevisao.csproj",
-      "projectName": "apprevisao",
-      "projectPath": "C:\\IGTI\\csharp\\apprevisao\\apprevisao.csproj",
+      "projectUniqueName": "C:\\IGTI\\csharp\\Apprevisao\\Apprevisao.csproj",
+      "projectName": "Apprevisao",
+      "projectPath": "C:\\IGTI\\csharp\\Apprevisao\\Apprevisao.csproj",
       "packagesPath": "C:\\Users\\guikr\\.nuget\\packages\\",
-      "outputPath": "C:\\IGTI\\csharp\\apprevisao\\obj\\",
+      "outputPath": "C:\\IGTI\\csharp\\Apprevisao\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
