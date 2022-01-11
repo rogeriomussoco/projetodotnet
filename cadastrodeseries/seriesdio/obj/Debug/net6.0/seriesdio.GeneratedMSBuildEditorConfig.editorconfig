@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = consoleappdio
-build_property.ProjectDir = c:\IGTI\csharp\consoleappdio\
+build_property.RootNamespace = seriesdio
+build_property.ProjectDir = c:\IGTI\csharp\cadastrodeseries\seriesdio\
